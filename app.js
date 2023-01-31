@@ -5,7 +5,7 @@ const sum = (a,b) => {
 
 console.log(sum(7,3))
 
-// one euro is:
+// one Euro is:
 const oneEuroIs = {
     "JPY": 127.9, // japan yen
     "USD": 1.2, // us dollar
